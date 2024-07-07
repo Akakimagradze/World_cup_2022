@@ -41,7 +41,8 @@
                 4. How many LOSSES each team have.
                 5. How many GOALS each team have scored.
                 6. How many GOALS each team have conceded.
-                7. What is a DIFFERENCE between goals scored and goals conceded. For example if team scored 7 goals and conceded 15 then goal difference will be 7 - 15 = -8.
+                7. What is a DIFFERENCE between goals scored and goals conceded. For example:
+                if team scored 7 goals and conceded 15 then goal difference will be 7 - 15 = -8.
          Table format is:
                 Group: E                P.  W.  D.  L.  G.  GA. DF.
                 1. Spain                4 | 1 | 1 | 2 | 9 | 3 | 6
